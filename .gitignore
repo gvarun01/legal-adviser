@@ -1,0 +1,45 @@
+node_modules
+*.pdf
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.db
+*.sqlite3
+*.env
+*.DS_Store
+*.egg
+*.egg-info
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.swp
+*.swo
+
+*.bak
+*.tmp
+
+# Supabase files
+.supabase/
+# Local development files
+.env.local
+# Local build files
+.env.development.local
+# Local production files
+.env.production.local
+# Local test files
+.env.test.local
+# Local cache files
+.cache/
+# Local logs
+.logs/
+# Local coverage reports
+.coverage
+# Local IDE files
+.idea/
+# Local editor files
+.vscode/
+# Local build artifacts
+dist/
